@@ -1,8 +1,11 @@
-# myapp
+# My Quiz App
 
 A new Flutter project.
 
 ## Getting Started
+
+This Project was made using the API provided by Open Trivia Database. 
+Link to the Above Website : https://opentdb.com
 
 This project is a starting point for a Flutter application.
 
